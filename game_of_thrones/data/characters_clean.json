@@ -1,5 +1,6 @@
 [
    {
+<<<<<<< HEAD
       "characterName": "Addam Marbrand"
    },
    {
@@ -8,14 +9,27 @@
       "royal": true,
       "killedBy": [
          "Gregor Clegane"
+=======
+      "characterName": "Aegon Targaryen",
+      "houseName": "Targaryen",
+      "royal": true,
+      "siblings": [
+         "Rhaenys Targaryen",
+         "Jon Snow"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parents": [
          "Elia Martell",
          "Rhaegar Targaryen"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Rhaenys Targaryen",
          "Jon Snow"
+=======
+      "killedBy": [
+         "Gregor Clegane"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -32,27 +46,48 @@
       "houseName": "Targaryen",
       "royal": true,
       "nickname": "The Mad King",
+<<<<<<< HEAD
+=======
+      "siblings": [
+         "Rhaella Targaryen"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "Brandon Stark",
          "Rickard Stark"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Jaime Lannister"
       ],
       "marriedEngaged": [
          "Rhaella Targaryen"
       ],
+=======
+      "marriedEngaged": [
+         "Rhaella Targaryen"
+      ],
+      "servedBy": [
+         "Arthur Dayne",
+         "Jaime Lannister"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "parentOf": [
          "Daenerys Targaryen",
          "Rhaegar Targaryen",
          "Viserys Targaryen"
       ],
+<<<<<<< HEAD
       "servedBy": [
          "Arthur Dayne",
          "Jaime Lannister"
       ],
       "siblings": [
          "Rhaella Targaryen"
+=======
+      "killedBy": [
+         "Jaime Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -93,6 +128,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Anguy"
    },
    {
@@ -122,13 +158,40 @@
       ],
       "serves": [
          "Aerys II Targaryen"
+=======
+      "characterName": "Areo Hotah",
+      "serves": [
+         "Doran Martell"
+      ],
+      "killedBy": [
+         "Tyene Sand"
+      ]
+   },
+   {
+      "characterName": "Arthur Dayne",
+      "kingsguard": true,
+      "serves": [
+         "Aerys II Targaryen"
+      ],
+      "killedBy": [
+         "Howland Reed",
+         "Eddard Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Arya Stark",
       "houseName": "Stark",
+<<<<<<< HEAD
       "guardedBy": [
          "Nymeria"
+=======
+      "siblings": [
+         "Robb Stark",
+         "Sansa Stark",
+         "Bran Stark",
+         "Rickon Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "killed": [
          "Red Keep Stableboy",
@@ -150,11 +213,16 @@
          "Eddard Stark",
          "Catelyn Stark"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Robb Stark",
          "Sansa Stark",
          "Bran Stark",
          "Rickon Stark"
+=======
+      "guardedBy": [
+         "Nymeria"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -167,13 +235,20 @@
    {
       "characterName": "Balon Greyjoy",
       "houseName": "Greyjoy",
+<<<<<<< HEAD
       "killedBy": [
          "Euron Greyjoy"
+=======
+      "siblings": [
+         "Euron Greyjoy",
+         "Aeron Greyjoy"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parentOf": [
          "Yara Greyjoy",
          "Theon Greyjoy"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Euron Greyjoy",
          "Aeron Greyjoy"
@@ -190,21 +265,46 @@
       ],
       "serves": [
          "Daenerys Targaryen"
+=======
+      "killedBy": [
+         "Euron Greyjoy"
+      ]
+   },
+   {
+      "characterName": "Barristan Selmy",
+      "serves": [
+         "Daenerys Targaryen"
+      ],
+      "killedBy": [
+         "Sons of the Harpy"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Benjen Stark",
       "houseName": "Stark",
+<<<<<<< HEAD
       "killedBy": [
          "Wights"
       ],
       "parents": [
          "Rickard Stark"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Brandon Stark",
          "Lyanna Stark",
          "Eddard Stark"
+<<<<<<< HEAD
+=======
+      ],
+      "parents": [
+         "Rickard Stark"
+      ],
+      "killedBy": [
+         "Wights"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -215,23 +315,30 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Bianca"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Biter",
       "killedBy": [
          "Sandor Clegane"
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Black Lorren"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Black Walder Rivers",
       "houseName": "Frey",
       "killed": [
          "Catelyn Stark"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Arya Stark"
       ],
@@ -243,6 +350,16 @@
       "characterName": "Bobono"
    },
    {
+=======
+      "parents": [
+         "Walder Frey"
+      ],
+      "killedBy": [
+         "Arya Stark"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Bowen Marsh",
       "killed": [
          "Jon Snow"
@@ -254,22 +371,35 @@
    {
       "characterName": "Brandon Stark",
       "houseName": "Stark",
+<<<<<<< HEAD
       "killedBy": [
          "Aerys II Targaryen"
       ],
       "parents": [
          "Rickard Stark"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Lyanna Stark",
          "Benjen Stark",
          "Eddard Stark"
+<<<<<<< HEAD
+=======
+      ],
+      "parents": [
+         "Rickard Stark"
+      ],
+      "killedBy": [
+         "Aerys II Targaryen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Bran Stark",
       "houseName": "Stark",
       "royal": true,
+<<<<<<< HEAD
       "guardedBy": [
          "Summer"
       ],
@@ -277,17 +407,32 @@
          "Eddard Stark",
          "Catelyn Stark"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Robb Stark",
          "Sansa Stark",
          "Arya Stark",
          "Rickon Stark"
+<<<<<<< HEAD
       ]
    },
    {
       "characterName": "Brea"
    },
    {
+=======
+      ],
+      "parents": [
+         "Eddard Stark",
+         "Catelyn Stark"
+      ],
+      "guardedBy": [
+         "Summer"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Brienne of Tarth",
       "kingsguard": true,
       "killed": [
@@ -295,14 +440,23 @@
          "Stannis Baratheon",
          "Bolton Officer"
       ],
+<<<<<<< HEAD
       "servedBy": [
          "Podrick Payne"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "serves": [
          "Renly Baratheon",
          "Catelyn Stark",
          "Sansa Stark",
          "Bran Stark"
+<<<<<<< HEAD
+=======
+      ],
+      "servedBy": [
+         "Podrick Payne"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -331,19 +485,34 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Captain of the Archers"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Catelyn Stark",
       "houseName": [
          "Stark",
          "Tully"
       ],
+<<<<<<< HEAD
       "killed": [
          "Joyeuse Erenford"
       ],
       "killedBy": [
          "Black Walder Rivers"
+=======
+      "siblings": [
+         "Lysa Arryn",
+         "Edmure Tully"
+      ],
+      "killed": [
+         "Joyeuse Erenford"
+      ],
+      "parents": [
+         "Hoster Tully"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Eddard Stark",
@@ -356,12 +525,17 @@
          "Bran Stark",
          "Rickon Stark"
       ],
+<<<<<<< HEAD
       "parents": [
          "Hoster Tully"
       ],
       "siblings": [
          "Lysa Arryn",
          "Edmure Tully"
+=======
+      "killedBy": [
+         "Black Walder Rivers"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -377,6 +551,13 @@
          "Baratheon"
       ],
       "royal": true,
+<<<<<<< HEAD
+=======
+      "siblings": [
+         "Jaime Lannister",
+         "Tyrion Lannister"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "Lancel Lannister",
          "High Sparrow",
@@ -386,8 +567,13 @@
          "Kevan Lannister",
          "Tyene Sand"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Roof collapse"
+=======
+      "parents": [
+         "Tywin Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Robert Baratheon"
@@ -397,6 +583,7 @@
          "Myrcella Baratheon",
          "Tommen Baratheon"
       ],
+<<<<<<< HEAD
       "parents": [
          "Tywin Lannister"
       ],
@@ -415,6 +602,13 @@
       "characterName": "Colen of Greenpools"
    },
    {
+=======
+      "killedBy": [
+         "Roof collapse"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Craster",
       "killedBy": [
          "Karl Tanner"
@@ -438,10 +632,16 @@
       "characterName": "Daenerys Targaryen",
       "houseName": "Targaryen",
       "royal": true,
+<<<<<<< HEAD
       "guardedBy": [
          "Drogon",
          "Rhaegal",
          "Viserion"
+=======
+      "siblings": [
+         "Rhaegar Targaryen",
+         "Viserys Targaryen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "killed": [
          "Khal Drogo",
@@ -461,6 +661,7 @@
          "Eleanor's Daughter",
          "Lord Varys"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Jon Snow"
       ],
@@ -470,10 +671,18 @@
       "parentOf": [
          "Rhaego"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "parents": [
          "Aerys II Targaryen",
          "Rhaella Targaryen"
       ],
+<<<<<<< HEAD
+=======
+      "marriedEngaged": [
+         "Khal Drogo"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "servedBy": [
          "Barristan Selmy",
          "Daario Naharis",
@@ -482,6 +691,7 @@
          "Missandei",
          "Tyrion Lannister"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Rhaegar Targaryen",
          "Viserys Targaryen"
@@ -501,20 +711,53 @@
       "serves": [
          "Stannis Baratheon",
          "Jon Snow"
+=======
+      "parentOf": [
+         "Rhaego"
+      ],
+      "killedBy": [
+         "Jon Snow"
+      ],
+      "guardedBy": [
+         "Drogon",
+         "Rhaegal",
+         "Viserion"
+      ]
+   },
+   {
+      "characterName": "Davos Seaworth",
+      "serves": [
+         "Stannis Baratheon",
+         "Jon Snow"
+      ],
+      "parentOf": [
+         "Matthos Seaworth"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Dickon Tarly",
+<<<<<<< HEAD
       "killedBy": [
          "Daenerys Targaryen"
+=======
+      "siblings": [
+         "Samwell Tarly",
+         "Talla Tarly"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parents": [
          "Randyll Tarly",
          "Melessa Tarly"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Samwell Tarly",
          "Talla Tarly"
+=======
+      "killedBy": [
+         "Daenerys Targaryen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -524,9 +767,12 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Donnel Waynwood"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Dontos Hollard",
       "killedBy": [
          "Petyr Baelish"
@@ -535,15 +781,26 @@
    {
       "characterName": "Doran Martell",
       "houseName": "Martell",
+<<<<<<< HEAD
       "killedBy": [
          "Ellaria Sand"
+=======
+      "siblings": [
+         "Elia Martell",
+         "Oberyn Martell"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parentOf": [
          "Trystane Martell"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Elia Martell",
          "Oberyn Martell"
+=======
+      "killedBy": [
+         "Ellaria Sand"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -576,14 +833,21 @@
    {
       "characterName": "Drogon",
       "houseName": "Targaryen",
+<<<<<<< HEAD
       "guardianOf": [
          "Daenerys Targaryen"
+=======
+      "siblings": [
+         "Rhaegal",
+         "Viserion"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "killed": [
          "Pyat Pree",
          "Kraznys mo Nakloz",
          "Zalla"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Rhaegal",
          "Viserion"
@@ -605,6 +869,20 @@
       ],
       "guardianOf": [
          "Jon Snow"
+=======
+      "guardianOf": [
+         "Daenerys Targaryen"
+      ]
+   },
+   {
+      "characterName": "Eddard Stark",
+      "houseName": "Stark",
+      "nickname": "Ned",
+      "siblings": [
+         "Brandon Stark",
+         "Benjen Stark",
+         "Lyanna Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "killed": [
          "Arthur Dayne",
@@ -612,12 +890,23 @@
          "Lady",
          "Gerold Hightower"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Ilyn Payne"
+=======
+      "parents": [
+         "Rickard Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Catelyn Stark"
       ],
+<<<<<<< HEAD
+=======
+      "guardianOf": [
+         "Jon Snow"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "parentOf": [
          "Robb Stark",
          "Sansa Stark",
@@ -625,6 +914,7 @@
          "Bran Stark",
          "Rickon Stark"
       ],
+<<<<<<< HEAD
       "parents": [
          "Rickard Stark"
       ],
@@ -632,6 +922,17 @@
          "Brandon Stark",
          "Benjen Stark",
          "Lyanna Stark"
+=======
+      "allies": [
+         "Howland Reed",
+         "Robert Baratheon"
+      ],
+      "killedBy": [
+         "Ilyn Payne"
+      ],
+      "guardedBy": [
+         "Jon Arryn"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -643,12 +944,21 @@
    {
       "characterName": "Edmure Tully",
       "houseName": "Tully",
+<<<<<<< HEAD
       "marriedEngaged": [
          "Roslin Frey"
       ],
       "siblings": [
          "Catelyn Stark",
          "Lysa Arryn"
+=======
+      "siblings": [
+         "Catelyn Stark",
+         "Lysa Arryn"
+      ],
+      "marriedEngaged": [
+         "Roslin Frey"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -669,8 +979,14 @@
       "characterName": "Elia Martell",
       "houseName": "Martell",
       "royal": true,
+<<<<<<< HEAD
       "killedBy": [
          "Gregor Clegane"
+=======
+      "siblings": [
+         "Doran Martell",
+         "Oberyn Martell"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Rhaegar Targaryen"
@@ -679,6 +995,7 @@
          "Rhaenys Targaryen",
          "Aegon Targaryen"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Doran Martell",
          "Oberyn Martell"
@@ -690,6 +1007,19 @@
    {
       "characterName": "Euron Greyjoy",
       "houseName": "Greyjoy",
+=======
+      "killedBy": [
+         "Gregor Clegane"
+      ]
+   },
+   {
+      "characterName": "Euron Greyjoy",
+      "houseName": "Greyjoy",
+      "siblings": [
+         "Balon Greyjoy",
+         "Aeron Greyjoy"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "Balon Greyjoy",
          "Obara Sand",
@@ -698,6 +1028,7 @@
       ],
       "killedBy": [
          "Jaime Lannister"
+<<<<<<< HEAD
       ],
       "siblings": [
          "Balon Greyjoy",
@@ -711,6 +1042,11 @@
       "characterName": "Farlen"
    },
    {
+=======
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Gared",
       "killedBy": [
          "White Walker"
@@ -742,27 +1078,46 @@
    {
       "characterName": "Ghost",
       "houseName": "Stark",
+<<<<<<< HEAD
       "guardianOf": [
          "Jon Snow"
       ],
       "killed": [
          "Rast"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Grey Wind",
          "Lady",
          "Nymeria",
          "Summer",
          "Shaggydog"
+<<<<<<< HEAD
+=======
+      ],
+      "killed": [
+         "Rast"
+      ],
+      "guardianOf": [
+         "Jon Snow"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Gilly",
+<<<<<<< HEAD
+=======
+      "parents": [
+         "Craster"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Samwell Tarly"
       ],
       "parentOf": [
          "Baby Sam"
+<<<<<<< HEAD
       ],
       "parents": [
          "Craster"
@@ -775,6 +1130,11 @@
       "characterName": "Goldcloak #2"
    },
    {
+=======
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Grand Maester Pycelle",
       "killedBy": [
          "Little Birds"
@@ -789,6 +1149,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Great Master #2"
    },
    {
@@ -807,6 +1168,8 @@
       "characterName": "Great Master #7"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Greatjon Umber",
       "parentOf": [
          "Smalljon Umber"
@@ -826,12 +1189,21 @@
          "Missandei",
          "Qyburn"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Sandor Clegane"
       ],
       "serves": [
          "Tywin Lannister",
          "Cersei Lannister"
+=======
+      "serves": [
+         "Tywin Lannister",
+         "Cersei Lannister"
+      ],
+      "killedBy": [
+         "Sandor Clegane"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -852,6 +1224,7 @@
    {
       "characterName": "Grey Wind",
       "houseName": "Stark",
+<<<<<<< HEAD
       "guardianOf": [
          "Robb Stark"
       ],
@@ -861,12 +1234,26 @@
       "killedBy": [
          "Frey Crossbowmen"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Lady",
          "Nymeria",
          "Summer",
          "Shaggydog",
          "Ghost"
+<<<<<<< HEAD
+=======
+      ],
+      "killed": [
+         "Rennick"
+      ],
+      "guardianOf": [
+         "Robb Stark"
+      ],
+      "killedBy": [
+         "Frey Crossbowmen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -881,6 +1268,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Hallyne"
    },
    {
@@ -890,6 +1278,14 @@
       ],
       "parents": [
          "Rickard Karstark"
+=======
+      "characterName": "Harald Karstark",
+      "parents": [
+         "Rickard Karstark"
+      ],
+      "parentOf": [
+         "Alys Karstark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -899,9 +1295,12 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "High Priestess"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "High Sparrow",
       "killedBy": [
          "Cersei Lannister"
@@ -923,6 +1322,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Hoster Tully",
       "houseName": "Tully"
    },
@@ -934,12 +1334,21 @@
       "allies": [
          "Eddard Stark"
       ],
+=======
+      "characterName": "Howland Reed",
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "Arthur Dayne"
       ],
       "parentOf": [
          "Jojen Reed",
          "Meera Reed"
+<<<<<<< HEAD
+=======
+      ],
+      "allies": [
+         "Eddard Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -949,9 +1358,12 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Illyrio Mopatis"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Ilyn Payne",
       "killed": [
          "Eddard Stark"
@@ -964,12 +1376,15 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Izembaro"
    },
    {
       "characterName": "Jacks"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Jafer Flowers",
       "killedBy": [
          "White Walker"
@@ -980,10 +1395,16 @@
       "houseName": "Lannister",
       "kingsguard": true,
       "nickname": "The Kingslayer",
+<<<<<<< HEAD
       "guardianOf": [
          "Aerys II Targaryen",
          "Robert Baratheon",
          "Joffrey Baratheon"
+=======
+      "siblings": [
+         "Cersei Lannister",
+         "Tyrion Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "killed": [
          "Aerys II Targaryen",
@@ -993,20 +1414,35 @@
          "Olenna Tyrell",
          "Euron Greyjoy"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Roof collapse"
+=======
+      "parents": [
+         "Tywin Lannister"
+      ],
+      "guardianOf": [
+         "Aerys II Targaryen",
+         "Robert Baratheon",
+         "Joffrey Baratheon"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parentOf": [
          "Joffrey Baratheon",
          "Myrcella Baratheon",
          "Tommen Baratheon"
       ],
+<<<<<<< HEAD
       "parents": [
          "Tywin Lannister"
       ],
       "siblings": [
          "Cersei Lannister",
          "Tyrion Lannister"
+=======
+      "killedBy": [
+         "Roof collapse"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1027,6 +1463,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Jaqen's Disguise"
    },
    {
@@ -1060,37 +1497,86 @@
          "Sansa Stark",
          "Margaery Tyrell"
       ],
+=======
+      "characterName": "Jeor Mormont",
+      "houseName": "Mormont",
+      "parentOf": [
+         "Jorah Mormont"
+      ],
+      "killedBy": [
+         "Rast"
+      ]
+   },
+   {
+      "characterName": "Joffrey Baratheon",
+      "houseName": "Baratheon",
+      "royal": true,
+      "siblings": [
+         "Myrcella Baratheon",
+         "Tommen Baratheon"
+      ],
+      "killed": [
+         "Ros"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "parents": [
          "Robert Baratheon",
          "Cersei Lannister",
          "Jaime Lannister"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Myrcella Baratheon",
          "Tommen Baratheon"
+=======
+      "marriedEngaged": [
+         "Sansa Stark",
+         "Margaery Tyrell"
+      ],
+      "killedBy": [
+         "Petyr Baelish",
+         "Olenna Tyrell"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Jojen Reed",
+<<<<<<< HEAD
       "killedBy": [
+=======
+      "siblings": [
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
          "Meera Reed"
       ],
       "parents": [
          "Howland Reed"
       ],
+<<<<<<< HEAD
       "siblings": [
+=======
+      "killedBy": [
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
          "Meera Reed"
       ]
    },
    {
       "characterName": "Jon Arryn",
+<<<<<<< HEAD
       "allies": [
          "Robert Baratheon"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "guardianOf": [
          "Eddard Stark",
          "Robert Baratheon"
       ],
+<<<<<<< HEAD
+=======
+      "allies": [
+         "Robert Baratheon"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killedBy": [
          "Lysa Arryn"
       ]
@@ -1102,10 +1588,13 @@
          "Targaryen"
       ],
       "royal": true,
+<<<<<<< HEAD
       "guardedBy": [
          "Eddard Stark",
          "Ghost"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "Othor",
          "Qhorin Halfhand",
@@ -1122,12 +1611,23 @@
          "Lyanna Stark",
          "Daenerys Targaryen"
       ],
+<<<<<<< HEAD
+=======
+      "parents": [
+         "Rhaegar Targaryen",
+         "Lyanna Stark"
+      ],
+      "marriedEngaged": [
+         "Ygritte"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killedBy": [
          "Alliser Thorne",
          "Othell Yarwyck",
          "Bowen Marsh",
          "Olly"
       ],
+<<<<<<< HEAD
       "marriedEngaged": [
          "Ygritte"
       ],
@@ -1140,6 +1640,14 @@
       "characterName": "Jonos Bracken"
    },
    {
+=======
+      "guardedBy": [
+         "Eddard Stark",
+         "Ghost"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Jorah Mormont",
       "houseName": "Mormont",
       "killed": [
@@ -1147,32 +1655,58 @@
          "Norvoshi Pit Fighter",
          "Meereenese Champion"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Wights"
+=======
+      "serves": [
+         "Daenerys Targaryen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parents": [
          "Jeor Mormont"
       ],
+<<<<<<< HEAD
       "serves": [
          "Daenerys Targaryen"
+=======
+      "killedBy": [
+         "Wights"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Jory Cassel",
+<<<<<<< HEAD
       "killedBy": [
          "Jaime Lannister"
       ],
       "serves": [
          "Eddard Stark"
+=======
+      "serves": [
+         "Eddard Stark"
+      ],
+      "killedBy": [
+         "Jaime Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Joyeuse Erenford",
+<<<<<<< HEAD
       "killedBy": [
          "Catelyn Stark"
       ],
       "marriedEngaged": [
          "Walder Frey"
+=======
+      "marriedEngaged": [
+         "Walder Frey"
+      ],
+      "killedBy": [
+         "Catelyn Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1186,6 +1720,7 @@
    },
    {
       "characterName": "Karsi",
+<<<<<<< HEAD
       "killedBy": [
          "Pack of Wights"
       ],
@@ -1198,6 +1733,17 @@
       "characterName": "Kayla"
    },
    {
+=======
+      "parentOf": [
+         "Johnna",
+         "Willa"
+      ],
+      "killedBy": [
+         "Pack of Wights"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Kegs",
       "killedBy": [
          "Wildling"
@@ -1206,16 +1752,26 @@
    {
       "characterName": "Kevan Lannister",
       "houseName": "Lannister",
+<<<<<<< HEAD
       "killedBy": [
          "Cersei Lannister"
+=======
+      "siblings": [
+         "Tywin Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parentOf": [
          "Lancel Lannister",
          "Martyn Lannister",
          "Willem Lannister"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Tywin Lannister"
+=======
+      "killedBy": [
+         "Cersei Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1224,14 +1780,23 @@
          "Viserys Targaryen",
          "Mago"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Daenerys Targaryen"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Daenerys Targaryen"
       ],
       "parentOf": [
          "Rhaego"
+<<<<<<< HEAD
+=======
+      ],
+      "killedBy": [
+         "Daenerys Targaryen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1247,6 +1812,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "King Joffrey Baratheon Dwarf"
    },
    {
@@ -1259,6 +1825,8 @@
       "characterName": "King Stannis Baratheon Dwarf"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "King's Landing Rioter #1",
       "killedBy": [
          "Sandor Clegane"
@@ -1277,9 +1845,12 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Kinvara"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Kitty Frey",
       "houseName": "Frey",
       "marriedEngaged": [
@@ -1287,6 +1858,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Knight of House Frey"
    },
    {
@@ -1296,6 +1868,8 @@
       "characterName": "Kovarro"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Kraznys mo Nakloz",
       "killedBy": [
          "Drogon"
@@ -1310,18 +1884,30 @@
    {
       "characterName": "Lady",
       "houseName": "Stark",
+<<<<<<< HEAD
       "guardianOf": [
          "Sansa Stark"
       ],
       "killedBy": [
          "Eddard Stark"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Grey Wind",
          "Nymeria",
          "Summer",
          "Shaggydog",
          "Ghost"
+<<<<<<< HEAD
+=======
+      ],
+      "guardianOf": [
+         "Sansa Stark"
+      ],
+      "killedBy": [
+         "Eddard Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1333,12 +1919,19 @@
    {
       "characterName": "Lancel Lannister",
       "houseName": "Lannister",
+<<<<<<< HEAD
       "killedBy": [
          "Cersei Lannister"
+=======
+      "siblings": [
+         "Martyn Lannister",
+         "Willem Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parents": [
          "Kevan Lannister"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Martyn Lannister",
          "Willem Lannister"
@@ -1354,6 +1947,13 @@
       "characterName": "Lannister Scout"
    },
    {
+=======
+      "killedBy": [
+         "Cersei Lannister"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Lead Dornish Guard",
       "killedBy": [
          "Bronn"
@@ -1375,6 +1975,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Leo Lefford"
    },
    {
@@ -1396,6 +1997,8 @@
       "characterName": "Little Bird #7"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Loboda",
       "killedBy": [
          "White Walker"
@@ -1422,12 +2025,18 @@
    {
       "characterName": "Loras Tyrell",
       "houseName": "Tyrell",
+<<<<<<< HEAD
       "killedBy": [
          "Cersei Lannister"
+=======
+      "siblings": [
+         "Margaery Tyrell"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parents": [
          "Mace Tyrell"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Margaery Tyrell"
       ]
@@ -1439,20 +2048,31 @@
       "characterName": "Lord Portan"
    },
    {
+=======
+      "killedBy": [
+         "Cersei Lannister"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Lord Varys",
       "killedBy": [
          "Daenerys Targaryen"
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Lordsport Dockhand"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Lothar Frey",
       "houseName": "Frey",
       "killed": [
          "Talisa Maegyr"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Arya Stark"
       ],
@@ -1467,6 +2087,16 @@
       "characterName": "Loyal Night's Watchman #2"
    },
    {
+=======
+      "parents": [
+         "Walder Frey"
+      ],
+      "killedBy": [
+         "Arya Stark"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Lyanna Mormont",
       "houseName": "Mormont",
       "killed": [
@@ -1479,11 +2109,24 @@
    {
       "characterName": "Lyanna Stark",
       "houseName": "Stark",
+<<<<<<< HEAD
       "abductedBy": [
          "Rhaegar Targaryen"
       ],
       "killedBy": [
          "Jon Snow"
+=======
+      "siblings": [
+         "Brandon Stark",
+         "Benjen Stark",
+         "Eddard Stark"
+      ],
+      "abductedBy": [
+         "Rhaegar Targaryen"
+      ],
+      "parents": [
+         "Rickard Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Robert Baratheon",
@@ -1492,6 +2135,7 @@
       "parentOf": [
          "Jon Snow"
       ],
+<<<<<<< HEAD
       "parents": [
          "Rickard Stark"
       ],
@@ -1499,6 +2143,10 @@
          "Brandon Stark",
          "Benjen Stark",
          "Eddard Stark"
+=======
+      "killedBy": [
+         "Jon Snow"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1507,6 +2155,7 @@
          "Arryn",
          "Tully"
       ],
+<<<<<<< HEAD
       "killed": [
          "Jon Arryn"
       ],
@@ -1522,17 +2171,43 @@
       "siblings": [
          "Catelyn Tully",
          "Edmure Tully"
+=======
+      "siblings": [
+         "Catelyn Tully",
+         "Edmure Tully"
+      ],
+      "killed": [
+         "Jon Arryn"
+      ],
+      "parents": [
+         "Hoster Tully"
+      ],
+      "marriedEngaged": [
+         "Petyr Baelish"
+      ],
+      "killedBy": [
+         "Petyr Baelish"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Mace Tyrell",
       "houseName": "Tyrell",
+<<<<<<< HEAD
       "killedBy": [
          "Cersei Lannister"
       ],
       "parentOf": [
          "Margaery Tyrell",
          "Loras Tyrell"
+=======
+      "parentOf": [
+         "Margaery Tyrell",
+         "Loras Tyrell"
+      ],
+      "killedBy": [
+         "Cersei Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1543,6 +2218,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Maester Cressen",
       "killed": [
          "Maester Cressen"
@@ -1552,15 +2228,20 @@
       ]
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Maester Luwin",
       "killedBy": [
          "Osha"
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Maester Wolkan"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Mag the Mighty",
       "killed": [
          "Grenn",
@@ -1574,21 +2255,27 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Maggy"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Mago",
       "killedBy": [
          "Khal Drogo"
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Male Prostitute"
    },
    {
       "characterName": "Malko"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Mance Rayder",
       "killedBy": [
          "Melisandre",
@@ -1603,6 +2290,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Manservant"
    },
    {
@@ -1613,12 +2301,22 @@
       "houseName": "Tyrell",
       "killedBy": [
          "Cersei Lannister"
+=======
+      "characterName": "Margaery Tyrell",
+      "houseName": "Tyrell",
+      "siblings": [
+         "Loras Tyrell"
+      ],
+      "parents": [
+         "Mace Tyrell"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Renly Baratheon",
          "Joffrey Baratheon",
          "Tommen Baratheon"
       ],
+<<<<<<< HEAD
       "parents": [
          "Mace Tyrell"
       ],
@@ -1637,10 +2335,23 @@
       "houseName": "Lannister",
       "killedBy": [
          "Rickard Karstark"
+=======
+      "killedBy": [
+         "Cersei Lannister"
+      ]
+   },
+   {
+      "characterName": "Martyn Lannister",
+      "houseName": "Lannister",
+      "siblings": [
+         "Lancel Lannister",
+         "Willem Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parents": [
          "Kevan Lannister"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Lancel Lannister",
          "Willem Lannister"
@@ -1656,6 +2367,19 @@
       ],
       "parents": [
          "Davos Seaworth"
+=======
+      "killedBy": [
+         "Rickard Karstark"
+      ]
+   },
+   {
+      "characterName": "Matthos Seaworth",
+      "parents": [
+         "Davos Seaworth"
+      ],
+      "killedBy": [
+         "Bronn"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1669,9 +2393,12 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Meereen Slave Master"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Melessa Tarly",
       "marriedEngaged": [
          "Randyll Tarly"
@@ -1716,6 +2443,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Mhaegen"
    },
    {
@@ -1725,6 +2453,8 @@
       "characterName": "Mirelle"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Mirri Maz Duur",
       "killed": [
          "Rhaego"
@@ -1735,6 +2465,7 @@
    },
    {
       "characterName": "Missandei",
+<<<<<<< HEAD
       "killedBy": [
          "Gregor Clegane"
       ],
@@ -1746,6 +2477,16 @@
       "characterName": "Mord"
    },
    {
+=======
+      "serves": [
+         "Daenerys Targaryen"
+      ],
+      "killedBy": [
+         "Gregor Clegane"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Mossador",
       "killed": [
          "Son of the Harpy"
@@ -1755,12 +2496,15 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Musician #4"
    },
    {
       "characterName": "Musician #5"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Mycah",
       "killedBy": [
          "Sandor Clegane"
@@ -1776,20 +2520,34 @@
       "characterName": "Myrcella Baratheon",
       "houseName": "Baratheon",
       "royal": true,
+<<<<<<< HEAD
       "killedBy": [
          "Ellaria Sand"
       ],
       "marriedEngaged": [
          "Trystane Martell"
+=======
+      "siblings": [
+         "Joffrey Baratheon",
+         "Tommen Baratheon"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parents": [
          "Robert Baratheon",
          "Cersei Lannister",
          "Jaime Lannister"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Joffrey Baratheon",
          "Tommen Baratheon"
+=======
+      "marriedEngaged": [
+         "Trystane Martell"
+      ],
+      "killedBy": [
+         "Ellaria Sand"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1800,6 +2558,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Night's Watch Deserter"
    },
    {
@@ -1817,22 +2576,40 @@
       "guardianOf": [
          "Arya Stark"
       ],
+=======
+      "characterName": "Nymeria",
+      "houseName": "Stark",
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Grey Wind",
          "Lady",
          "Summer",
          "Shaggydog",
          "Ghost"
+<<<<<<< HEAD
+=======
+      ],
+      "guardianOf": [
+         "Arya Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Nymeria Sand",
       "houseName": "Martell",
+<<<<<<< HEAD
       "killedBy": [
          "Euron Greyjoy"
       ],
       "parents": [
          "Oberyn Martell"
+=======
+      "parents": [
+         "Oberyn Martell"
+      ],
+      "killedBy": [
+         "Euron Greyjoy"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1842,18 +2619,32 @@
          "Merchant Captain",
          "Trystane Martell"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Euron Greyjoy"
       ],
       "parents": [
          "Oberyn Martell"
+=======
+      "parents": [
+         "Oberyn Martell"
+      ],
+      "killedBy": [
+         "Euron Greyjoy"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Oberyn Martell",
       "houseName": "Martell",
+<<<<<<< HEAD
       "killedBy": [
          "Gregor Clegane"
+=======
+      "siblings": [
+         "Doran Martell",
+         "Elia Martell"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Ellaria Sand"
@@ -1863,6 +2654,7 @@
          "Nymeria Sand",
          "Tyene Sand"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Doran Martell",
          "Elia Martell"
@@ -1875,16 +2667,31 @@
       "characterName": "Old Woman Prisoner"
    },
    {
+=======
+      "killedBy": [
+         "Gregor Clegane"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Olenna Tyrell",
       "houseName": "Tyrell",
       "killed": [
          "Joffrey Baratheon"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Jaime Lannister"
       ],
       "parentOf": [
          "Mace Tyrell"
+=======
+      "parentOf": [
+         "Mace Tyrell"
+      ],
+      "killedBy": [
+         "Jaime Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -1898,18 +2705,24 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Olyvar"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Orell",
       "killedBy": [
          "Jon Snow"
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Ornela"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Osha",
       "killed": [
          "Drennan",
@@ -1936,9 +2749,12 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Pentoshi Servant"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Petyr Baelish",
       "nickname": "Littlefinger",
       "killed": [
@@ -1946,11 +2762,19 @@
          "Dontos Hollard",
          "Lysa Arryn"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Arya Stark"
       ],
       "marriedEngaged": [
          "Lysa Arryn"
+=======
+      "marriedEngaged": [
+         "Lysa Arryn"
+      ],
+      "killedBy": [
+         "Arya Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2000,9 +2824,12 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Qhono"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Qhorin Halfhand",
       "killedBy": [
          "Jon Snow"
@@ -2015,6 +2842,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Quaithe"
    },
    {
@@ -2024,6 +2852,14 @@
       ],
       "serves": [
          "Cersei Lannister"
+=======
+      "characterName": "Qyburn",
+      "serves": [
+         "Cersei Lannister"
+      ],
+      "killedBy": [
+         "Gregor Clegane"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2046,21 +2882,34 @@
          "Rickon Stark",
          "Wun Wun"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Ramsay Snow's Hounds"
+=======
+      "parents": [
+         "Roose Bolton"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Sansa Stark"
       ],
+<<<<<<< HEAD
       "parents": [
          "Roose Bolton"
+=======
+      "killedBy": [
+         "Ramsay Snow's Hounds"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Randyll Tarly",
+<<<<<<< HEAD
       "killedBy": [
          "Daenerys Targaryen"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Melessa Tarly"
       ],
@@ -2068,6 +2917,12 @@
          "Dickon Tarly",
          "Samwell Tarly",
          "Talla Tarly"
+<<<<<<< HEAD
+=======
+      ],
+      "killedBy": [
+         "Daenerys Targaryen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2101,44 +2956,82 @@
    {
       "characterName": "Renly Baratheon",
       "houseName": "Baratheon",
+<<<<<<< HEAD
       "killedBy": [
          "Melisandre"
+=======
+      "siblings": [
+         "Robert Baratheon",
+         "Stannis Baratheon"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Margaery Tyrell"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Robert Baratheon",
          "Stannis Baratheon"
+=======
+      "killedBy": [
+         "Melisandre"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Rhaegal",
       "houseName": "Targaryen",
+<<<<<<< HEAD
       "guardianOf": [
          "Daenerys Targaryen"
+=======
+      "siblings": [
+         "Drogon",
+         "Viserion"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "killed": [
          "Pyat Pree",
          "Great Master #1"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Euron Greyjoy"
       ],
       "siblings": [
          "Drogon",
          "Viserion"
+=======
+      "guardianOf": [
+         "Daenerys Targaryen"
+      ],
+      "killedBy": [
+         "Euron Greyjoy"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Rhaegar Targaryen",
       "houseName": "Targaryen",
       "royal": true,
+<<<<<<< HEAD
       "abducted": [
          "Lyanna Stark"
       ],
       "killedBy": [
          "Robert Baratheon"
+=======
+      "siblings": [
+         "Daenerys Targaryen",
+         "Viserys Targaryen"
+      ],
+      "abducted": [
+         "Lyanna Stark"
+      ],
+      "parents": [
+         "Rhaella Targaryen",
+         "Aerys II Targaryen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Elia Martell",
@@ -2149,6 +3042,7 @@
          "Rhaenys Targaryen",
          "Aegon Targaryen"
       ],
+<<<<<<< HEAD
       "parents": [
          "Rhaella Targaryen",
          "Aerys II Targaryen"
@@ -2156,22 +3050,41 @@
       "siblings": [
          "Daenerys Targaryen",
          "Viserys Targaryen"
+=======
+      "killedBy": [
+         "Robert Baratheon"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Rhaego",
+<<<<<<< HEAD
       "killedBy": [
          "Mirri Maz Duur"
       ],
       "parents": [
          "Khal Drogo",
          "Daenerys Targaryen"
+=======
+      "parents": [
+         "Khal Drogo",
+         "Daenerys Targaryen"
+      ],
+      "killedBy": [
+         "Mirri Maz Duur"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Rhaella Targaryen",
       "houseName": "Targaryen",
       "royal": true,
+<<<<<<< HEAD
+=======
+      "siblings": [
+         "Aerys II Targaryen"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Aerys II Targaryen"
       ],
@@ -2179,18 +3092,24 @@
          "Daenerys Targaryen",
          "Rhaegar Targaryen",
          "Viserys Targaryen"
+<<<<<<< HEAD
       ],
       "siblings": [
          "Aerys II Targaryen"
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Rhaenys Targaryen",
       "houseName": "Targaryen",
       "royal": true,
+<<<<<<< HEAD
       "killedBy": [
          "Gregor Clegane"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "parents": [
          "Elia Martell",
          "Rhaegar Targaryen"
@@ -2198,6 +3117,12 @@
       "sibling": [
          "Aegon Targaryen",
          "Jon Snow"
+<<<<<<< HEAD
+=======
+      ],
+      "killedBy": [
+         "Gregor Clegane"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2206,29 +3131,47 @@
          "Martyn Lannister",
          "Willem Lannister"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Robb Stark"
       ],
       "parentOf": [
          "Harald Karstark"
+=======
+      "parentOf": [
+         "Harald Karstark"
+      ],
+      "killedBy": [
+         "Robb Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Rickard Stark",
       "houseName": "Stark",
+<<<<<<< HEAD
       "killedBy": [
          "Aerys II Targaryen"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "parentOf": [
          "Brandon Stark",
          "Benjen Stark",
          "Eddard Stark",
          "Lyanna Stark"
+<<<<<<< HEAD
+=======
+      ],
+      "killedBy": [
+         "Aerys II Targaryen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Rickon Stark",
       "houseName": "Stark",
+<<<<<<< HEAD
       "guardedBy": [
          "Shaggydog"
       ],
@@ -2239,17 +3182,33 @@
          "Eddard Stark",
          "Catelyn Stark"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Robb Stark",
          "Sansa Stark",
          "Arya Stark",
          "Bran Stark"
+<<<<<<< HEAD
+=======
+      ],
+      "parents": [
+         "Eddard Stark",
+         "Catelyn Stark"
+      ],
+      "killedBy": [
+         "Ramsay Snow"
+      ],
+      "guardedBy": [
+         "Shaggydog"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Robb Stark",
       "houseName": "Stark",
       "royal": true,
+<<<<<<< HEAD
       "guardedBy": [
          "Grey Wind"
       ],
@@ -2268,17 +3227,41 @@
          "Eddard Stark",
          "Catelyn Stark"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Sansa Stark",
          "Arya Stark",
          "Bran Stark",
          "Rickon Stark"
+<<<<<<< HEAD
+=======
+      ],
+      "killed": [
+         "Wallen",
+         "Rickard Karstark"
+      ],
+      "parents": [
+         "Eddard Stark",
+         "Catelyn Stark"
+      ],
+      "marriedEngaged": [
+         "Roslin Frey",
+         "Talisa Maegyr"
+      ],
+      "killedBy": [
+         "Roose Bolton"
+      ],
+      "guardedBy": [
+         "Grey Wind"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Robert Baratheon",
       "houseName": "Baratheon",
       "royal": true,
+<<<<<<< HEAD
       "allies": [
          "Jon Arryn",
          "Eddard Stark",
@@ -2286,13 +3269,21 @@
       ],
       "guardedBy": [
          "Jon Arryn"
+=======
+      "siblings": [
+         "Stannis Baratheon",
+         "Renly Baratheon"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "killed": [
          "Rhaegar Targaryen"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Boar"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Lyanna Stark",
          "Cersei Lannister"
@@ -2302,6 +3293,7 @@
          "Myrcella Baratheon",
          "Tommen Baratheon"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Stannis Baratheon",
          "Renly Baratheon"
@@ -2311,6 +3303,21 @@
       "characterName": "Robett Glover"
    },
    {
+=======
+      "allies": [
+         "Jon Arryn",
+         "Eddard Stark",
+         "Tywin Lannister"
+      ],
+      "killedBy": [
+         "Boar"
+      ],
+      "guardedBy": [
+         "Jon Arryn"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Robin Arryn",
       "parents": [
          "Jon Arryn",
@@ -2319,11 +3326,19 @@
    },
    {
       "characterName": "Rodrik Cassel",
+<<<<<<< HEAD
       "killedBy": [
          "Theon Greyjoy"
       ],
       "serves": [
          "Eddard Stark"
+=======
+      "serves": [
+         "Eddard Stark"
+      ],
+      "killedBy": [
+         "Theon Greyjoy"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2332,14 +3347,23 @@
       "killed": [
          "Robb Stark"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Ramsay Snow"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Walda Bolton"
       ],
       "parentOf": [
          "Ramsay Snow"
+<<<<<<< HEAD
+=======
+      ],
+      "killedBy": [
+         "Ramsay Snow"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2357,6 +3381,7 @@
    {
       "characterName": "Roslin Frey",
       "houseName": "Frey",
+<<<<<<< HEAD
       "marriedEngaged": [
          "Robb Stark",
          "Edmure Tully"
@@ -2369,25 +3394,52 @@
       "characterName": "Royal Steward"
    },
    {
+=======
+      "parents": [
+         "Walder Frey"
+      ],
+      "marriedEngaged": [
+         "Robb Stark",
+         "Edmure Tully"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Ryger Rivers",
       "parents": [
          "Walder Frey"
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Salladhor Saan"
    },
    {
       "characterName": "Samwell Tarly",
+=======
+      "characterName": "Samwell Tarly",
+      "siblings": [
+         "Dickon Tarly",
+         "Talla Tarly"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "White Walker",
          "Thenn Warg"
       ],
+<<<<<<< HEAD
+=======
+      "parents": [
+         "Randyll Tarly",
+         "Melessa Tarly"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Gilly"
       ],
       "parentOf": [
          "Baby Sam"
+<<<<<<< HEAD
       ],
       "parents": [
          "Randyll Tarly",
@@ -2396,11 +3448,19 @@
       "siblings": [
          "Dickon Tarly",
          "Talla Tarly"
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Sandor Clegane",
       "nickname": "The Hound",
+<<<<<<< HEAD
+=======
+      "siblings": [
+         "Gregor Clegane"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "Mycah",
          "Kings Landing Rioter #1",
@@ -2421,23 +3481,39 @@
       ],
       "killedBy": [
          "Sandor Clegane"
+<<<<<<< HEAD
       ],
       "siblings": [
          "Gregor Clegane"
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Sansa Stark",
       "houseName": "Stark",
       "royal": true,
+<<<<<<< HEAD
       "guardedBy": [
          "Lady"
+=======
+      "siblings": [
+         "Robb Stark",
+         "Arya Stark",
+         "Bran Stark",
+         "Rickon Stark"
+      ],
+      "parents": [
+         "Eddard Stark",
+         "Catelyn Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Joffrey Baratheon",
          "Tyrion Lannister",
          "Ramsay Snow"
       ],
+<<<<<<< HEAD
       "parents": [
          "Eddard Stark",
          "Catelyn Stark"
@@ -2447,6 +3523,10 @@
          "Arya Stark",
          "Bran Stark",
          "Rickon Stark"
+=======
+      "guardedBy": [
+         "Lady"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2455,26 +3535,39 @@
       "killed": [
          "Selyse Baratheon"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Selyse Baratheon"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Stannis Baratheon"
       ],
       "parentOf": [
          "Shireen Baratheon"
+<<<<<<< HEAD
       ]
    },
    {
       "characterName": "Septa Moelle"
    },
    {
+=======
+      ],
+      "killedBy": [
+         "Selyse Baratheon"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Septa Mordane",
       "killedBy": [
          "Lannister Guardsman"
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Septa Scolera"
    },
    {
@@ -2484,12 +3577,15 @@
       "characterName": "Ser Endrew Tarth"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Shae",
       "killedBy": [
          "Tyrion Lannister"
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Shagga"
    },
    {
@@ -2501,23 +3597,45 @@
       "killedBy": [
          "Smalljon Umber"
       ],
+=======
+      "characterName": "Shaggydog",
+      "houseName": "Stark",
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Grey Wind",
          "Lady",
          "Nymeria",
          "Summer",
          "Ghost"
+<<<<<<< HEAD
+=======
+      ],
+      "guardianOf": [
+         "Rickon Stark"
+      ],
+      "killedBy": [
+         "Smalljon Umber"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Shireen Baratheon",
       "houseName": "Baratheon",
+<<<<<<< HEAD
       "killedBy": [
          "Melisandre"
       ],
       "parents": [
          "Stannis Baratheon",
          "Selyse Baratheon"
+=======
+      "parents": [
+         "Stannis Baratheon",
+         "Selyse Baratheon"
+      ],
+      "killedBy": [
+         "Melisandre"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2531,11 +3649,19 @@
       "killed": [
          "Shaggydog"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Tormund Giantsbane"
       ],
       "parents": [
          "Greatjon Umber"
+=======
+      "parents": [
+         "Greatjon Umber"
+      ],
+      "killedBy": [
+         "Tormund Giantsbane"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2547,19 +3673,30 @@
    {
       "characterName": "Stannis Baratheon",
       "houseName": "Baratheon",
+<<<<<<< HEAD
+=======
+      "siblings": [
+         "Robert Baratheon",
+         "Renly Baratheon"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "Gordy",
          "Simpson"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Brienne of Tarth"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Selyse Baratheon"
       ],
       "parentOf": [
          "Shireen Baratheon"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Robert Baratheon",
          "Renly Baratheon"
@@ -2576,6 +3713,13 @@
       "houseName": "Frey"
    },
    {
+=======
+      "killedBy": [
+         "Brienne of Tarth"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Stiv",
       "killedBy": [
          "Theon Greyjoy"
@@ -2593,6 +3737,7 @@
    {
       "characterName": "Summer",
       "houseName": "Stark",
+<<<<<<< HEAD
       "guardianOf": [
          "Bran Stark"
       ],
@@ -2602,12 +3747,26 @@
       "killedBy": [
          "Wights"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "siblings": [
          "Grey Wind",
          "Lady",
          "Nymeria",
          "Shaggydog",
          "Ghost"
+<<<<<<< HEAD
+=======
+      ],
+      "killed": [
+         "Catspaw Assassin"
+      ],
+      "guardianOf": [
+         "Bran Stark"
+      ],
+      "killedBy": [
+         "Wights"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2618,16 +3777,25 @@
    },
    {
       "characterName": "Talisa Maegyr",
+<<<<<<< HEAD
       "killedBy": [
          "Lothar Frey"
       ],
       "marriedEngaged": [
          "Robb Stark"
+=======
+      "marriedEngaged": [
+         "Robb Stark"
+      ],
+      "killedBy": [
+         "Lothar Frey"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Talla Tarly",
       "houseName": "Tarly",
+<<<<<<< HEAD
       "parents": [
          "Randyll Tarly",
          "Melessa Tarly"
@@ -2644,6 +3812,18 @@
       "characterName": "The Bear"
    },
    {
+=======
+      "siblings": [
+         "Dickon Tarly",
+         "Samwell Tarly"
+      ],
+      "parents": [
+         "Randyll Tarly",
+         "Melessa Tarly"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "The Night King",
       "killed": [
          "Three-Eyed Raven",
@@ -2682,6 +3862,12 @@
    {
       "characterName": "Theon Greyjoy",
       "houseName": "Greyjoy",
+<<<<<<< HEAD
+=======
+      "siblings": [
+         "Yara Greyjoy"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "Stiv",
          "Rodrik Cassel",
@@ -2689,6 +3875,7 @@
          "Bolton Soldier",
          "Harrag"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "The Night King"
       ],
@@ -2706,12 +3893,23 @@
       "characterName": "Thoros of Myr"
    },
    {
+=======
+      "parents": [
+         "Balon Greyjoy"
+      ],
+      "killedBy": [
+         "The Night King"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Three-Eyed Raven",
       "killedBy": [
          "The Night King"
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Timett"
    },
    {
@@ -2736,14 +3934,34 @@
       "marriedEngaged": [
          "Margaery Tyrell"
       ],
+=======
+      "characterName": "Tommen Baratheon",
+      "houseName": "Baratheon",
+      "royal": true,
+      "siblings": [
+         "Joffrey Baratheon",
+         "Myrcella Baratheon"
+      ],
+      "killed": [
+         "Tommen Baratheon"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "parents": [
          "Robert Baratheon",
          "Cersei Lannister",
          "Jaime Lannister"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Joffrey Baratheon",
          "Myrcella Baratheon"
+=======
+      "marriedEngaged": [
+         "Margaery Tyrell"
+      ],
+      "killedBy": [
+         "Tommen Baratheon"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2756,12 +3974,18 @@
    {
       "characterName": "Trystane Martell",
       "houseName": "Martell",
+<<<<<<< HEAD
       "killedBy": [
          "Obara Sand"
+=======
+      "parents": [
+         "Doran Martell"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "marriedEngaged": [
          "Myrcella Baratheon"
       ],
+<<<<<<< HEAD
       "parents": [
          "Doran Martell"
       ]
@@ -2770,27 +3994,51 @@
       "characterName": "Tycho Nestoris"
    },
    {
+=======
+      "killedBy": [
+         "Obara Sand"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Tyene Sand",
       "houseName": "Martell",
       "killed": [
          "Areo Hotah",
          "Maester Caleotte"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Cersei Lannister"
       ],
       "parents": [
          "Oberyn Martell",
          "Ellaria Sand"
+=======
+      "parents": [
+         "Oberyn Martell",
+         "Ellaria Sand"
+      ],
+      "killedBy": [
+         "Cersei Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Tyrion Lannister",
       "houseName": "Lannister",
+<<<<<<< HEAD
+=======
+      "siblings": [
+         "Cersei Lannister",
+         "Jaime Lannister"
+      ],
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "killed": [
          "Shae",
          "Tywin Lannister"
       ],
+<<<<<<< HEAD
       "marriedEngaged": [
          "Sansa Stark"
       ],
@@ -2803,22 +4051,38 @@
       "siblings": [
          "Cersei Lannister",
          "Jaime Lannister"
+=======
+      "serves": [
+         "Daenerys Targaryen"
+      ],
+      "parents": [
+         "Tywin Lannister"
+      ],
+      "marriedEngaged": [
+         "Sansa Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Tywin Lannister",
       "houseName": "Lannister",
+<<<<<<< HEAD
       "allies": [
          "Robert Baratheon"
       ],
       "killedBy": [
          "Tyrion Lannister"
+=======
+      "servedBy": [
+         "Gregor Clegane"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parentOf": [
          "Jaime Lannister",
          "Cersei Lannister",
          "Tyrion Lannister"
       ],
+<<<<<<< HEAD
       "servedBy": [
          "Gregor Clegane"
       ]
@@ -2827,6 +4091,16 @@
       "characterName": "Vala"
    },
    {
+=======
+      "allies": [
+         "Robert Baratheon"
+      ],
+      "killedBy": [
+         "Tyrion Lannister"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Vardis Egen",
       "killedBy": [
          "Bronn"
@@ -2841,13 +4115,20 @@
    {
       "characterName": "Viserion",
       "houseName": "Targaryen",
+<<<<<<< HEAD
       "guardianOf": [
          "Daenerys Targaryen"
+=======
+      "siblings": [
+         "Drogon",
+         "Rhaegal"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "killed": [
          "Pyat Pree",
          "Great Master #1"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "The Night King",
          "Arya Stark"
@@ -2855,22 +4136,41 @@
       "siblings": [
          "Drogon",
          "Rhaegal"
+=======
+      "guardianOf": [
+         "Daenerys Targaryen"
+      ],
+      "killedBy": [
+         "The Night King",
+         "Arya Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Viserys Targaryen",
       "houseName": "Targaryen",
       "royal": true,
+<<<<<<< HEAD
       "killedBy": [
          "Khal Drogo"
+=======
+      "siblings": [
+         "Daenerys Targaryen",
+         "Rhaegar Targaryen"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parents": [
          "Rhaella Targaryen",
          "Aerys II Targaryen"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Daenerys Targaryen",
          "Rhaegar Targaryen"
+=======
+      "killedBy": [
+         "Khal Drogo"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2879,19 +4179,30 @@
          "Bolton",
          "Frey"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Ramsay Snow's Hounds"
       ],
       "marriedEngaged": [
          "Roose Bolton"
+=======
+      "marriedEngaged": [
+         "Roose Bolton"
+      ],
+      "killedBy": [
+         "Ramsay Snow's Hounds"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
       "characterName": "Walder Frey",
       "houseName": "Frey",
+<<<<<<< HEAD
       "killedBy": [
          "Arya Stark"
       ],
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "marriedEngaged": [
          "Joyeuse Erenford",
          "Kitty Frey"
@@ -2901,6 +4212,12 @@
          "Lothar Frey",
          "Roslin Frey",
          "Ryger Rivers"
+<<<<<<< HEAD
+=======
+      ],
+      "killedBy": [
+         "Arya Stark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2910,6 +4227,7 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Warlock"
    },
    {
@@ -2934,6 +4252,17 @@
       "characterName": "Wildling Rioter"
    },
    {
+=======
+      "characterName": "Waymar Royce",
+      "parents": [
+         "Yohn Royce"
+      ],
+      "killedBy": [
+         "White Walker"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Will",
       "killedBy": [
          "Eddard Stark"
@@ -2942,15 +4271,26 @@
    {
       "characterName": "Willem Lannister",
       "houseName": "Lannister",
+<<<<<<< HEAD
       "killedBy": [
          "Rickard Karstark"
+=======
+      "siblings": [
+         "Lancel Lannister",
+         "Martyn Lannister"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ],
       "parents": [
          "Kevan Lannister"
       ],
+<<<<<<< HEAD
       "siblings": [
          "Lancel Lannister",
          "Martyn Lannister"
+=======
+      "killedBy": [
+         "Rickard Karstark"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -2960,12 +4300,15 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Wine Merchant"
    },
    {
       "characterName": "Winterfell Shepherd"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Wun Wun",
       "killed": [
          "Lyanna Mormont"
@@ -2976,9 +4319,12 @@
       ]
    },
    {
+<<<<<<< HEAD
       "characterName": "Wyllis"
    },
    {
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Xaro Xhoan Daxos",
       "killedBy": [
          "Daenerys Targaryen"
@@ -2987,6 +4333,7 @@
    {
       "characterName": "Yara Greyjoy",
       "houseName": "Greyjoy",
+<<<<<<< HEAD
       "parents": [
          "Balon Greyjoy"
       ],
@@ -2998,6 +4345,16 @@
       "characterName": "Yezzan zo Qaggaz"
    },
    {
+=======
+      "siblings": [
+         "Theon Greyjoy"
+      ],
+      "parents": [
+         "Balon Greyjoy"
+      ]
+   },
+   {
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       "characterName": "Ygritte",
       "killed": [
          "Old Man",
@@ -3005,11 +4362,19 @@
          "Mole's Town Whore",
          "Pypar"
       ],
+<<<<<<< HEAD
       "killedBy": [
          "Olly"
       ],
       "marriedEngaged": [
          "Jon Snow"
+=======
+      "marriedEngaged": [
+         "Jon Snow"
+      ],
+      "killedBy": [
+         "Olly"
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
       ]
    },
    {
@@ -3023,6 +4388,7 @@
       "killedBy": [
          "Amory Lorch"
       ]
+<<<<<<< HEAD
    },
    {
       "characterName": "Young Benjen Stark",
@@ -3052,5 +4418,7 @@
    },
    {
       "characterName": "Zanrush"
+=======
+>>>>>>> 7ed1b78504399f0d388614ce90a20bfb1e2df4b3
    }
 ]
